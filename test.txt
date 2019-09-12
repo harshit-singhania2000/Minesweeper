@@ -1,0 +1,3 @@
+11 seconds 10x10 grid, difficulty:100
+58 seconds 3x3 grid, difficulty:9
+2 seconds 20x20 grid, difficulty:1000

@@ -1,0 +1,3 @@
+grant codeBase "file:/home/harshit/Desktop/java/proj" {
+    permission java.io.FilePermission "test.txt", "write";
+};
